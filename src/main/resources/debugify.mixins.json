@@ -56,6 +56,7 @@
     "basic.mc268617.FileUtilMixin",
     "basic.mc271899.StructureTemplateMixin",
     "basic.mc272431.EnderDragonMixin",
+    "basic.mc278019.FlatLevelSourceMixin",
     "basic.mc297837.WaypointTransmitterMixin",
     "basic.mc30391.LivingEntityMixin",
     "basic.mc7569.RconConsoleSourceMixin",
