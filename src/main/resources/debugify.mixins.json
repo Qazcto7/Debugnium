@@ -33,6 +33,8 @@
     "basic.mc176806.RespawnAnchorBlockMixin",
     "basic.mc177381.LocateCommandMixin",
     "basic.mc179072.SwellGoalMixin",
+    "basic.mc182763.FollowFlockLeaderGoalMixin",
+    "basic.mc182763.RandomStrollGoalMixin",
     "basic.mc183990.MobMixin",
     "basic.mc187100.EnderDragonMixin",
     "basic.mc200418.ZombieVillagerMixin",
