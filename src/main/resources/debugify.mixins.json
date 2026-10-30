@@ -11,6 +11,7 @@
   },
   "mixins": [
     "basic.mc100991.FishingHookMixin",
+    "basic.mc102949.SkeletonHorseMixin",
     "basic.mc119754.FireworkRocketEntityMixin",
     "basic.mc121706.RangedBowAttackGoalMixin",
     "basic.mc121903.MinecraftCommandBlockMixin",
