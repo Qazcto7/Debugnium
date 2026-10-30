@@ -27,6 +27,7 @@
     "basic.mc155509.PufferfishMixin",
     "basic.mc158900.PlayerListMixin",
     "basic.mc160095.CactusBlockMixin",
+    "basic.mc161191.FallingBlockEntityMixin",
     "basic.mc168573.BlocksAttacksMixin",
     "basic.mc170462.MobEffectsMixin",
     "basic.mc176806.RespawnAnchorBlockMixin",
