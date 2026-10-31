@@ -86,6 +86,7 @@
     "basic.mc297196.ServerLevelMixin",
     "basic.mc297837.WaypointTransmitterMixin",
     "basic.mc30391.LivingEntityMixin",
+    "basic.mc48453.ServerGamePacketListenerImplMixin",
     "basic.mc7569.RconConsoleSourceMixin",
     "basic.mc82263.EnderDragonMixin",
     "basic.mc84661.MobEffectsMixin",
