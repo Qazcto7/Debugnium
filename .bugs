@@ -23,6 +23,7 @@ patched 118740 client basic
 patched 122627 client basic
 previous 122477 26.3-snapshot-4
 patched 127970 client basic
+patched 132067 client basic
 patched 143474 client basic
 patched 159163 client gameplay
 patched 165306 client basic
@@ -41,15 +42,20 @@ patched 237493 client basic
 patched 238293 client basic
 patched 242809 client basic
 previous 259512 26.3-snapshot-8
+patched 263293 client basic
 patched 267376 client basic
 patched 268420 client basic
 patched 280220 client basic
 patched 298225 client basic
 patched 298558 client basic
+previous 300695 26.3-snapshot-1
+previous 304705 26.1-snapshot-2
+previous 307012 26.2-snapshot-5
 patched 311974 client basic
 
 patched 7569 server basic
 patched 8187 server gameplay
+patched 17876 server basic tested
 patched 30391 server basic
 previous 81773 25w46a
 patched 82263 server basic
@@ -74,6 +80,7 @@ patched 147659 server basic
 patched 155509 server basic
 previous 159283 26.3-snapshot-6
 patched 160095 server basic
+patched 169113 server basic tested
 patched 170462 server basic
 patched 176806 server basic
 patched 177381 server basic
