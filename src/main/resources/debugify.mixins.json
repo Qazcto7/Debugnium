@@ -33,6 +33,7 @@
     "basic.mc168573.BlocksAttacksMixin",
     "basic.mc169113.ChunkMapMixin",
     "basic.mc170462.MobEffectsMixin",
+    "basic.mc171420.MinecraftServerMixin",
     "basic.mc176806.RespawnAnchorBlockMixin",
     "basic.mc177381.LocateCommandMixin",
     "basic.mc17876.LivingEntityMixin",

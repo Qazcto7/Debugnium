@@ -26,6 +26,7 @@
     "basic.mc176559.MultiPlayerGameModeMixin",
     "basic.mc197260.ArmorStandRendererMixin",
     "basic.mc197260.LivingEntityRendererMixin",
+    "basic.mc207091.NativeImageMixin",
     "basic.mc210318.BookSignScreenMixin",
     "basic.mc211561.FishingHookRendererMixin",
     "basic.mc215531.HudMixin",
