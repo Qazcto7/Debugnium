@@ -3,6 +3,7 @@
 # Try not to re-order this file (it sorts itself!), put additions at the end of each section - this helps with git conflicts
 
 patched 577 client basic
+patched 2164 server basic tested
 patched 4490 client basic
 patched 12062 client basic
 patched 30946 server basic tested
