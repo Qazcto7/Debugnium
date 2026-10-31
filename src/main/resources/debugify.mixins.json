@@ -64,6 +64,7 @@
     "basic.mc271899.StructureTemplateMixin",
     "basic.mc272431.EnderDragonMixin",
     "basic.mc278019.FlatLevelSourceMixin",
+    "basic.mc279288.LivingEntityMixin",
     "basic.mc297196.ChunkMapAccessor",
     "basic.mc297196.ServerChunkCacheMixin",
     "basic.mc297196.ServerLevelMixin",
