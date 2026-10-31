@@ -126,6 +126,7 @@ patched 153010 server basic
 previous 44654 26.3-snapshot-8
 patched 264979 server basic
 patched 264285 server basic
+patched 264204 server basic tested
 patched 131562 server basic
 patched 133218 server basic
 patched 158900 server basic
@@ -180,3 +181,5 @@ previous 22882 25w41a
 previous 199467 25w45a
 previous 219981 26.1-snapshot-1
 previous 123605 26.1-snapshot-6
+previous 9568 21w05a
+previous 263256 23w51a

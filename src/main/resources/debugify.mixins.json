@@ -62,6 +62,7 @@
     "basic.mc248588.LayeredCauldronBlockMixin",
     "basic.mc252486.StartAdmiringItemIfSeenMixin",
     "basic.mc263999.BreakDoorGoalMixin",
+    "basic.mc264204.LivingEntityMixin",
     "basic.mc264285.CreeperMixin",
     "basic.mc264979.SettingsMixin",
     "basic.mc266487.TrialSpawnerMixin",
