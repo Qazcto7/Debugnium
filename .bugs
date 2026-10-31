@@ -74,6 +74,7 @@ patched 119754 server basic
 patched 121706 server basic
 patched 121903 server basic
 patched 123450 server basic
+patched 123848 server basic
 previous 129909 25w46a
 patched 132878 server basic
 patched 134110 server basic
@@ -81,6 +82,7 @@ patched 136249 server gameplay
 patched 139041 server basic
 patched 147574 server basic tested
 patched 147659 server basic
+patched 153086 server basic
 patched 155509 server basic
 previous 159283 26.3-snapshot-6
 patched 160095 server basic
@@ -108,7 +110,9 @@ previous 227008 26.3-snapshot-9
 patched 227337 server basic
 patched 231743 server basic
 patched 232869 server basic
+patched 243057 server basic
 patched 245394 server basic
+patched 248588 server basic
 patched 251068 server basic
 patched 252486 server basic tested
 patched 266487 server basic tested
