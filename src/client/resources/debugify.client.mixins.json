@@ -44,6 +44,7 @@
     "basic.mc263293.LocalPlayerMixin",
     "basic.mc267376.CameraMixin",
     "basic.mc268420.HudMixin",
+    "basic.mc271840.ItemStackMixin",
     "basic.mc280220.DolphinCarryingItemLayerMixin",
     "basic.mc298225.CameraMixin",
     "basic.mc298558.AtmosphericFogEnvironmentMixin",
