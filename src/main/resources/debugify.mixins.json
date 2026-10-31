@@ -55,6 +55,7 @@
     "basic.mc231743.FlowerPotBlockMixin",
     "basic.mc232869.StriderMixin",
     "basic.mc245394.RaidMixin",
+    "basic.mc252486.StartAdmiringItemIfSeenMixin",
     "basic.mc263999.BreakDoorGoalMixin",
     "basic.mc264285.CreeperMixin",
     "basic.mc264979.SettingsMixin",
