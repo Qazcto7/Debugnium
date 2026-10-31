@@ -41,6 +41,7 @@
     "basic.mc242809.ManageServerScreenMixin",
     "basic.mc251068.WorldListEntryMixin",
     "basic.mc251068.WorldSelectionListMixin",
+    "basic.mc262974.HudMixin",
     "basic.mc263293.LocalPlayerMixin",
     "basic.mc267376.CameraMixin",
     "basic.mc268420.HudMixin",
