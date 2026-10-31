@@ -20,6 +20,7 @@
     "basic.mc127970.ItemInHandRendererMixin",
     "basic.mc132067.BubbleColumnUpParticleMixin",
     "basic.mc143474.ClientPacketListenerMixin",
+    "basic.mc157252.HudMixin",
     "basic.mc165305.RenderPipelinesMixin",
     "basic.mc165381.MultiPlayerGameModeMixin",
     "basic.mc176559.MultiPlayerGameModeMixin",

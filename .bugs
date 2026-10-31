@@ -25,6 +25,7 @@ previous 122477 26.3-snapshot-4
 patched 127970 client basic
 patched 132067 client basic
 patched 143474 client basic
+patched 157252 client basic
 patched 159163 client gameplay
 patched 165306 client basic
 patched 165381 client basic
@@ -52,6 +53,7 @@ previous 300695 26.3-snapshot-1
 previous 304705 26.1-snapshot-2
 previous 307012 26.2-snapshot-5
 patched 311974 client basic
+previous 304920 26.3-snapshot-7
 
 patched 7569 server basic
 patched 8187 server gameplay
