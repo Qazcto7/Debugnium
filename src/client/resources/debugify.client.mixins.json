@@ -16,6 +16,8 @@
     "basic.mc118740.HudMixin",
     "basic.mc118740.LivingEntityMixin",
     "basic.mc118740.LocalPlayerMixin",
+    "basic.mc12289.JoinMultiplayerScreenAccessor",
+    "basic.mc12289.JoinMultiplayerScreenMixin",
     "basic.mc122627.CommandSuggestionsMixin",
     "basic.mc127970.ItemInHandRendererMixin",
     "basic.mc132067.BubbleColumnUpParticleMixin",
